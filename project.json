@@ -1,5 +1,6 @@
 {
   "name": "EcoBot",
+  "projectId": "63428436-54bb-4e94-89a6-4d32b707af1b",
   "description": "katy",
   "main": "Main.xaml",
   "dependencies": {
